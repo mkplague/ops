@@ -8,6 +8,56 @@
   - Targeting also pregnant womans, as TORCH effects
   - Fetal Deformation
 
+---   
+
+The strongest mutations associated with lethality in SARS-CoV-2 variants include:    
+
+1. **Beta Variant (B.1.351)**: This variant has the highest case-fatality rate (CFR) among variants of concern, estimated at 4.2% due to its mutations that enhance transmissibility and pathogenicity.
+
+2. **P71L Mutation**: Found in the Alpha and Beta variants, this mutation is linked to increased cell lethality and higher viral loads, contributing to more severe disease outcomes.
+
+3. **Delta Variant (B.1.617.2)**: While highly transmissible, it has also been noted for its potential lethality, contributing to significant hospitalizations and deaths during its peak.
+
+These mutations exemplify how specific changes can enhance the virus's virulence and impact public health.
+
+---   
+
+When discussing mutations in SARS-CoV-2 that are associated with increased lethality or virulence, it's important to note that while some mutations enhance transmissibility or immune evasion, others can lead to more severe disease outcomes. Here are some notable mutations and variants that have been associated with increased lethality or severity of illness:
+
+- Key Mutations and Variants
+
+1. **N501Y Mutation**:
+   - **Associated Variants**: Found in Alpha (B.1.1.7), Beta (B.1.351), and Gamma (P.1) variants.
+   - **Impact**: Increases the binding affinity of the spike protein to the ACE2 receptor, enhancing transmissibility and potentially contributing to more severe disease.
+
+2. **P681R Mutation**:
+   - **Associated Variants**: Found in the Delta variant (B.1.617.2).
+   - **Impact**: This mutation is located at the furin cleavage site of the spike protein, which may enhance viral entry into cells and increase infectivity.
+
+3. **D614G Mutation**:
+   - **Associated Variants**: Present in nearly all circulating variants.
+   - **Impact**: This mutation has been linked to increased viral infectivity and has become the dominant form of the virus worldwide.
+
+4. **E484K Mutation**:
+   - **Associated Variants**: Found in Beta (B.1.351) and Gamma (P.1) variants.
+   - **Impact**: This mutation is associated with reduced neutralization by antibodies, which can lead to increased severity in vaccinated individuals or those previously infected.
+
+5. **Delta Variant (B.1.617.2)**:
+   - **Impact**: This variant has been associated with increased hospitalizations and deaths compared to earlier strains. It has mutations that enhance both transmissibility and potential severity of disease.
+
+6. **Omicron Variant (B.1.1.529)**:
+   - **Subvariants**: Includes BA.1, BA.2, BA.4, BA.5, and others.
+   - **Impact**: While Omicron is generally associated with milder disease compared to Delta, some subvariants have shown increased virulence and the ability to evade immunity, leading to severe cases in vulnerable populations.
+
+- Considerations
+
+- **Host Factors**: The lethality of any variant also depends on host factors, including age, underlying health conditions, and vaccination status.
+- **Emerging Variants**: Continuous genomic surveillance is crucial for identifying new mutations that may affect lethality and transmissibility.
+
+- Conclusion
+
+While specific mutations can enhance the lethality of SARS-CoV-2, the overall impact on public health is influenced by a combination of viral characteristics and host responses. Ongoing research and monitoring are essential to understand these dynamics fully. If you have further questions or need more information on specific mutations or variants, feel free to ask!
+
 ---  
 ---    
 
