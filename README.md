@@ -28,7 +28,9 @@
 - Basic Web Tools:
   - [Molecules Viwer](https://molview.org/)
   - [Swiss Model - Proteins Analyze](https://swissmodel.expasy.org/interactive)
-  - 
+
+- Basic Web charts:
+  - [Covid19 Map #1](https://covidvisualizer.com/)    
 
 ---   
 
