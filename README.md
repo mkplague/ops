@@ -6,7 +6,7 @@
 
 - Projects:
   - BioViruses:
-    - [SarsCoV-3](./SarsCoV3/readme.md)
+    - [SarsCoV-3](./biological/viruses/SarsCoV3/readme.md)
  
   
     - Depopulational:
