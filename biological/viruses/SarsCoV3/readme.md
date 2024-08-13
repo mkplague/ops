@@ -10,6 +10,12 @@
   - New variant replicable, "Self-Replication"
     - Sources and events producing self replication of entity
        by means of another bioviruses and proteins or stimulous
+    - "Ghost Code" create a strong shield to protect the dna,mrna of pathogen
+
+- Target:
+  - Central Nervous system
+
+
 
 ---   
 
@@ -883,3 +889,4 @@ These modifications are theoretical and need extensive experimental validation t
 3. [ScienceDirect on Protein Stability](https://www.sciencedirect.com/science/article/pii/S153594762200233X)
 4. [Microbiology Research Journal](https://www.microbiologyresearch.org/content/journal/jgv/10.1099/jgv.0.001900)
 5. [NCBI on SARS-CoV-2 Protein Modifications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9238396/)
+
