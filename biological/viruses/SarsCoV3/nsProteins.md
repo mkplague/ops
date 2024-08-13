@@ -158,5 +158,86 @@ For more detailed information on the accessory proteins of SARS-CoV-2, you can r
 
 These resources provide comprehensive insights into the roles and mechanisms of these proteins in the context of COVID-19.   
 
+### Overview of ORF Proteins in SARS-CoV-2
+
+SARS-CoV-2, the virus responsible for COVID-19, has a complex genome that encodes several open reading frames (ORFs). These ORFs are responsible for producing various proteins that play critical roles in the virus's structure, replication, and interaction with the host immune system. Below is a detailed overview of all the ORF proteins encoded by SARS-CoV-2.
+
+#### 1. **ORF1a and ORF1b**
+- **Function**: These ORFs encode polyproteins that are cleaved into non-structural proteins (nsps) essential for viral replication and transcription.
+- **Key Non-Structural Proteins**: 
+  - **nsp1**: Inhibits host protein synthesis.
+  - **nsp2**: Involved in immune evasion.
+  - **nsp3**: Contains a papain-like protease that processes viral polyproteins.
+  - **nsp4**: Involved in the formation of the viral replication complex.
+  - **nsp5**: A main protease that cleaves polyproteins.
+  - **nsp6**: Involved in the formation of double-membrane vesicles.
+  - **nsp7 to nsp10**: Various roles in replication and transcription.
+  - **nsp12**: RNA-dependent RNA polymerase, crucial for viral RNA synthesis.
+  - **nsp13**: Helicase that unwinds RNA.
+  - **nsp14**: Exoribonuclease involved in proofreading.
+  - **nsp15**: Endoribonuclease that helps evade the immune response.
+
+#### 2. **ORF2 (Spike Protein)**
+- **Function**: Encodes the spike (S) protein, which is critical for viral entry into host cells by binding to the ACE2 receptor.
+- **Role in Pathogenesis**: The spike protein is the primary target for neutralizing antibodies and is a key component of vaccines.
+
+#### 3. **ORF3a**
+- **Function**: Encodes an accessory protein that acts as a viroporin, facilitating viral release and enhancing replication.
+- **Role in Pathogenesis**: Inhibits the host's interferon response, contributing to immune evasion.
+
+#### 4. **ORF3b**
+- **Function**: Encodes a protein that inhibits the host's interferon response.
+- **Role in Pathogenesis**: Acts as an interferon antagonist, impairing the host immune response.
+
+#### 5. **ORF4 (Envelope Protein)**
+- **Function**: Encodes the envelope (E) protein, which is involved in viral assembly and release.
+- **Role in Pathogenesis**: Plays a role in the pathogenesis of the virus and is important for the formation of the viral envelope.
+
+#### 6. **ORF5 (Membrane Protein)**
+- **Function**: Encodes the membrane (M) protein, which is the most abundant structural protein and plays a role in virus assembly.
+- **Role in Pathogenesis**: Essential for the formation of the viral envelope and stability.
+
+#### 7. **ORF6**
+- **Function**: Encodes an accessory protein that inhibits the nuclear translocation of STAT1, a key protein in the interferon signaling pathway.
+- **Role in Pathogenesis**: Plays a critical role in evading the host's antiviral response.
+
+#### 8. **ORF7a**
+- **Function**: Encodes an accessory protein that modulates the immune response.
+- **Role in Pathogenesis**: Acts as an interferon antagonist, contributing to immune evasion.
+
+#### 9. **ORF7b**
+- **Function**: Less well-characterized but believed to play a role in immune modulation.
+- **Role in Pathogenesis**: May assist in the virus's ability to persist in the host.
+
+#### 10. **ORF8**
+- **Function**: Encodes an accessory protein that inhibits the expression of MHC class I molecules.
+- **Role in Pathogenesis**: Enhances the virus's ability to evade the immune system.
+
+#### 11. **ORF9b**
+- **Function**: Involved in the modulation of the host immune response.
+- **Role in Pathogenesis**: Its exact function is still under investigation, but it is thought to play a role in immune evasion.
+
+#### 12. **ORF10**
+- **Function**: Less understood, but it is believed to interact with host proteins to modulate immune responses.
+- **Role in Pathogenesis**: Its specific contributions to viral pathogenesis are still being researched.
+
+### Visual Representation
+
+Here are some diagrams that illustrate the structure and function of SARS-CoV-2 proteins, including ORF proteins:
+
+1. **SARS-CoV-2 Structure**: This diagram labels key components such as the Spike, Nucleocapsid, Membrane, Envelope, and ssRNA.
+   ![SARS-CoV-2 Structure](https://images.theconversation.com/files/376392/original/file-20201222-23-a2lr4l.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1000&fit=clip)
+
+2. **Genomic Organization**: This diagram outlines the structure of the SARS-CoV-2 genome, highlighting key genes and ORF proteins.
+   ![Genomic Organization](https://sites.utexas.edu/melamed-lab/files/2020/09/Image-2-Covid-genome.png)
+
+### Further Reading
+
+For more detailed information on the ORF proteins of SARS-CoV-2, you can refer to the following articles:
+- [Functions of Coronavirus Accessory Proteins](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8231932/)
+- [SARS-CoV-2 Accessory Proteins in Viral Pathogenesis](https://pubmed.ncbi.nlm.nih.gov/34305949/)
+- [Structure and Function of Major SARS-CoV-2 and SARS-CoV Proteins](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8221690/)
+
+These resources provide comprehensive insights into the roles and mechanisms of these proteins in the context of COVID-19.  
 
 
