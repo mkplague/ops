@@ -240,4 +240,40 @@ For more detailed information on the ORF proteins of SARS-CoV-2, you can refer t
 
 These resources provide comprehensive insights into the roles and mechanisms of these proteins in the context of COVID-19.  
 
+---  
+
+The SARS-CoV-2 genome features untranslated regions (UTRs) at both the 5' and 3' ends of its RNA, which are essential for the virus's replication and regulation. Here’s a detailed overview of these UTRs:
+
+### 1. **5' Untranslated Region (5' UTR)**
+
+- **Location**: The 5' UTR extends from the beginning of the viral RNA genome to the start of the open reading frame 1a (ORF1a).
+- **Function**: 
+  - **Transcription Initiation**: Contains elements crucial for the initiation of viral RNA translation and replication.
+  - **Structural Elements**: Includes a highly structured RNA sequence known as the **leader sequence**, which is involved in the transcription of subgenomic mRNAs.
+  - **Regulation**: Plays a role in regulating viral RNA synthesis and helps in forming the replication complex.
+
+### 2. **3' Untranslated Region (3' UTR)**
+
+- **Location**: The 3' UTR extends from the end of the last open reading frame (ORF10) to the end of the viral RNA genome.
+- **Function**: 
+  - **Regulation of RNA Stability**: Contains sequences that stabilize the viral RNA and protect it from degradation.
+  - **Poly(A) Tail**: Includes a poly(A) tail that enhances RNA stability and is crucial for efficient translation.
+  - **Replication and Translation**: Involved in regulating replication and translation by interacting with viral and host proteins.
+
+### **Genomic Structure Overview**
+
+- **5' UTR**:
+  - **Leader Sequence**: Highly conserved and involved in synthesizing subgenomic RNAs.
+  - **Start of ORF1a**: The first coding region for non-structural proteins.
+
+- **3' UTR**:
+  - **Genomic RNA**: Contains regulatory elements and the poly(A) tail.
+  - **End of ORF10**: The final coding region, followed by the 3' UTR.
+
+### **Summary**
+
+- **5' UTR**: Initiates translation and replication; includes the leader sequence.
+- **3' UTR**: Regulates RNA stability and translation; includes the poly(A) tail.
+
+These UTRs are crucial for the life cycle of SARS-CoV-2, influencing its replication, translation, and overall viral pathogenesis. Understanding the roles of these UTRs can provide insights into potential therapeutic targets for combating SARS-CoV-2 infections.
 
