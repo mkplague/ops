@@ -53,10 +53,9 @@ If you would like to explore specific studies or further implications of this th
 6. [PhilSci Archive - Many Worlds Theory](http://philsci-archive.pitt.edu/17014/)
 7. [R-bloggers - Cosmopsychism and Many Worlds](https://www.r-bloggers.com/2023/04/cosmopsychism-and-the-many-worlds-interpretation-a-monistic-perspective-on-consciousness-and-quantum-mechanics/)
 8. [Scientific Research Publishing - Many Worlds](https://www.scirp.org/journal/paperinformation?paperid=128000)
+9. The Many-Worlds Theory of Consciousness provides a compelling framework for addressing solipsism, a philosophical position that suggests only one's own mind is certain to exist. Here’s a deeper exploration of how this theory tackles solipsism and its broader philosophical implications.
 
-9. ---
-
-   The Many-Worlds Theory of Consciousness provides a compelling framework for addressing solipsism, a philosophical position that suggests only one's own mind is certain to exist. Here’s a deeper exploration of how this theory tackles solipsism and its broader philosophical implications.
+---    
 
 ### Addressing Solipsism
 
